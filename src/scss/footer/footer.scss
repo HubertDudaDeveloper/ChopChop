@@ -1,0 +1,17 @@
+// FOOTER //
+
+#footer {
+    display: flex;
+    justify-content: center;
+    background-color: #536567;
+
+    .footer__content {
+        width: calc(90vw - 85px);
+        padding: 7px 0px;
+        font-size: 16px;
+        line-height: 28px;
+        color: #fffefe;
+        font-weight: 200;
+        letter-spacing: 0.3px;
+    }
+}

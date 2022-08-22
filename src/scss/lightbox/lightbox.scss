@@ -1,0 +1,54 @@
+// LIGHTBOX //
+
+#lightbox {
+    display: none;
+    background: white;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0px;
+    z-index: 3;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    &__toggle {
+        width: 45%;
+        display: flex;
+        justify-content: flex-end;
+
+        &-close {
+            margin: -80px;
+        }
+    }
+
+    &__img {
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        max-width: 100%;
+    }
+}
+
+.fadeInBox {
+    animation: fadeInBox 0.5s 1;
+}
+
+@keyframes fadeInBox {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@media screen and (min-width: 950px) {
+    #lightbox {
+
+        &__img {
+            max-width: 50%;
+        }
+    }
+}
