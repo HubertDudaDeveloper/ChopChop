@@ -158,7 +158,7 @@
 
 @media screen and (min-width: 1600px) {
   #hero {
-    background: #ffffff url(/assets/img/seacost.jpg) no-repeat center;
+    background: #ffffff url(chopchop/assets/img/seacost.jpg) no-repeat center;
     background-size: cover;
   }
 }
@@ -324,55 +324,55 @@
 }
 
 .gallery__image--one {
-  background: url("/assets/img/beach-sea-coast-water-ocean-horizon-15529-pxhere.com.jpg");
+  background: url("chopchop/assets/img/beach-sea-coast-water-ocean-horizon-15529-pxhere.com.jpg");
   background-position: 48% 16%;
   background-size: 168% 110%;
 }
 
 .gallery__image--two {
-  background: url("/assets/img/grass-field-farm-lawn-meadow-hill-736197-pxhere.com.jpg");
+  background: url("chopchop/assets/img/grass-field-farm-lawn-meadow-hill-736197-pxhere.com.jpg");
   background-position: 45.5% 0%;
   background-size: 218% 114%;
 }
 
 .gallery__image--three {
-  background: url("/assets/img/hand-outdoor-sand-morning-animal-horse-114552-pxhere.com.jpg");
+  background: url("chopchop/assets/img/hand-outdoor-sand-morning-animal-horse-114552-pxhere.com.jpg");
   background-position: 66% 50%;
   background-size: 177% 118%;
 }
 
 .gallery__image--four {
-  background: url("/assets/img/landscape-sea-coast-horizon-mountain-snow-1325243-pxhere.com.jpg");
+  background: url("chopchop/assets/img/landscape-sea-coast-horizon-mountain-snow-1325243-pxhere.com.jpg");
   background-position: 54.5% 46%;
   background-size: 247% 166%;
 }
 
 .gallery__image--five {
-  background: url("/assets/img/fotolia_170367715.png");
+  background: url("chopchop/assets/img/fotolia_170367715.png");
   background-position: top center;
   background-size: cover;
 }
 
 .gallery__image--six {
-  background: url("/assets/img/snow-winter-city-vehicle-church-iceland-836962-pxhere.com.jpg");
+  background: url("chopchop/assets/img/snow-winter-city-vehicle-church-iceland-836962-pxhere.com.jpg");
   background-position: 85% 110%;
   background-size: 158% 106%;
 }
 
 .gallery__image--seven {
-  background: url("/assets/img/landscape-sea-nature-ocean-mountain-sky-386319-pxhere.com.jpg");
+  background: url("chopchop/assets/img/landscape-sea-nature-ocean-mountain-sky-386319-pxhere.com.jpg");
   background-position: 50% 20%;
   background-size: 186% 125%;
 }
 
 .gallery__image--eight {
-  background: url("/assets/img/sea-coast-water-ocean-bird-animal-136776-pxhere.com.jpg");
+  background: url("chopchop/assets/img/sea-coast-water-ocean-bird-animal-136776-pxhere.com.jpg");
   background-position: 490px 427px;
   background-size: 200% 112%;
 }
 
 .gallery__image--nine {
-  background: url("/assets/img/landscape-nature-grass-horizon-wilderness-mountain-946977-pxhere.com.jpg");
+  background: url("chopchop/assets/img/landscape-nature-grass-horizon-wilderness-mountain-946977-pxhere.com.jpg");
   background-position: 630px 482px;
   background-size: 180% 120%;
 }
